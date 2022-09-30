@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @ish107
+- 👋 Hi, I’m Chathuri Ishaka
 - 👀 I’m interested in Programming, Data Science
 - 🌱 I’m currently learning Python, Web development, Database related languages
 - 💞️ I’m looking to collaborate on ...
