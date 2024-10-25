@@ -4,7 +4,7 @@
 - 🛠  I’m currently working with React Native, TypeScript, Python, Firebase and Cloud Firestore
 - 📫 How to reach me +94717934821 | chathuriishaka@gmail.com
 
-### 🛠 🔧 Technologies & Tools
+### 🛠 Technologies & Tools
 
 <!---
 ish107/ish107 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
